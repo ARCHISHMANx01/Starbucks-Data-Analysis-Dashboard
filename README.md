@@ -42,7 +42,7 @@ It provides insights into revenue performance, customer behavior, product contri
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard_overview.png)
+![Dashboard Screenshot](screenshots/dashboard_overview.png)
 
 ---
 
